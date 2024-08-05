@@ -1,0 +1,146 @@
+{
+  "categories": [
+    {
+      "name": " Thắp sáng",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2-9JjmBeYeLc6X1rosujY36cpHlsivVCoIpQ9PNLwZOAWwPf6",
+      "id": 1
+    },
+    {
+      "name": " Phân bón",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtjB5ZizWtIomcpr6T6wWBPmEPwrOFx_XEU7t5zZ4AbbMIQZs7",
+      "id": 2
+    },
+    {
+      "name": " Đất & chất nền",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9yTmCvPjW_1Y64cllPBs-8BgIhbw9SCrDivLWbKc4kW0_SR3E",
+      "id": 5
+    },
+    {
+      "name": "Thủy lợi",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTDbw3d0kqTCx54184y70DiLETgMIO6jnAp_TxwKDAKsGdIXs3",
+      "id": 6
+    },
+    {
+      "name": "Chậu & Hộp đựng",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLGtRfaMmU3Edqh5tPjYvc9DIfbaq1EQ1AstozO3hfMHRdk5F3",
+      "id": 4
+    },
+    {
+      "name": "Hộp trồng trọt",
+      "image": "https://giadinh.mediacdn.vn/296230595582509056/2021/12/10/cay-day-nhen-tai-vuon-mat-troi-16389431430001385199795-1639096956056-16390969563881340664118.jpg",
+      "id": 3
+    },
+    {
+      "name": "Cây & Làm vườn",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtjB5ZizWtIomcpr6T6wWBPmEPwrOFx_XEU7t5zZ4AbbMIQZs7",
+      "id": 7
+    },
+    {
+      "name": "Thông gió và điều hòa không khí",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtjB5ZizWtIomcpr6T6wWBPmEPwrOFx_XEU7t5zZ4AbbMIQZs7",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "title": "Bóng Đèn",
+      "image": "https://selekkt.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/e/seijo_Kork_Untersetzer_ger_uchert.jpg",
+      "price": 25,
+      "categoryId": 1,
+      "id": 1,
+      "motangan": "Cây là thực vật thân gỗ, có thể cao lớn, với bộ rễ, thân, lá, hoa, và quả. Cây giúp cung cấp oxy, bảo vệ môi trường và cung cấp tài nguyên quý giá cho cuộc sống con người.",
+      "motadai": "Cây đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái. Chúng cung cấp oxy, hấp thụ carbon dioxide, làm sạch không khí, bảo vệ đất khỏi xói mòn và cung cấp môi trường sống cho nhiều loài động vật. Ngoài ra, cây còn là nguồn cung cấp thực phẩm, gỗ, dược liệu và nhiều tài nguyên khác cho con người.",
+      "about": "Cây là một phần không thể thiếu của hệ sinh thái và đời sống con người. Từ ngàn xưa, cây đã gắn liền với cuộc sống, văn hóa và tín ngưỡng của nhiều dân tộc. Trong tự nhiên, cây đóng vai trò chủ đạo trong việc duy trì sự sống và sự cân bằng của hệ sinh thái. Chúng không chỉ cung cấp thực phẩm và tài nguyên, mà còn là nguồn cảm hứng cho nghệ thuật và văn hóa. Trồng và bảo vệ cây là một hành động quan trọng trong việc bảo vệ môi trường và tương lai của nhân loại."
+    },
+    {
+      "title": "Cây xanh 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5pjoqU5720wHWwzTB2xOUlgEpf_FqV_eIg&s",
+      "price": 450000,
+      "categoryId": 1,
+      "id": 2,
+      "motangan": "Cây là thực vật thân gỗ, có thể cao lớn, với bộ rễ, thân, lá, hoa, và quả. Cây giúp cung cấp oxy, bảo vệ môi trường và cung cấp tài nguyên quý giá cho cuộc sống con người.",
+      "motadai": "Cây đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái. Chúng cung cấp oxy, hấp thụ carbon dioxide, làm sạch không khí, bảo vệ đất khỏi xói mòn và cung cấp môi trường sống cho nhiều loài động vật. Ngoài ra, cây còn là nguồn cung cấp thực phẩm, gỗ, dược liệu và nhiều tài nguyên khác cho con người.",
+      "about": "Cây là một phần không thể thiếu của hệ sinh thái và đời sống con người. Từ ngàn xưa, cây đã gắn liền với cuộc sống, văn hóa và tín ngưỡng của nhiều dân tộc. Trong tự nhiên, cây đóng vai trò chủ đạo trong việc duy trì sự sống và sự cân bằng của hệ sinh thái. Chúng không chỉ cung cấp thực phẩm và tài nguyên, mà còn là nguồn cảm hứng cho nghệ thuật và văn hóa. Trồng và bảo vệ cây là một hành động quan trọng trong việc bảo vệ môi trường và tương lai của nhân loại."
+    },
+    {
+      "title": "Cây xanh 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5pjoqU5720wHWwzTB2xOUlgEpf_FqV_eIg&s",
+      "price": 800000,
+      "categoryId": 2,
+      "id": 3,
+      "motangan": "Cây là thực vật thân gỗ, có thể cao lớn, với bộ rễ, thân, lá, hoa, và quả. Cây giúp cung cấp oxy, bảo vệ môi trường và cung cấp tài nguyên quý giá cho cuộc sống con người.",
+      "motadai": "Cây đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái. Chúng cung cấp oxy, hấp thụ carbon dioxide, làm sạch không khí, bảo vệ đất khỏi xói mòn và cung cấp môi trường sống cho nhiều loài động vật. Ngoài ra, cây còn là nguồn cung cấp thực phẩm, gỗ, dược liệu và nhiều tài nguyên khác cho con người.",
+      "about": "Cây là một phần không thể thiếu của hệ sinh thái và đời sống con người. Từ ngàn xưa, cây đã gắn liền với cuộc sống, văn hóa và tín ngưỡng của nhiều dân tộc. Trong tự nhiên, cây đóng vai trò chủ đạo trong việc duy trì sự sống và sự cân bằng của hệ sinh thái. Chúng không chỉ cung cấp thực phẩm và tài nguyên, mà còn là nguồn cảm hứng cho nghệ thuật và văn hóa. Trồng và bảo vệ cây là một hành động quan trọng trong việc bảo vệ môi trường và tương lai của nhân loại."
+    },
+    {
+      "title": "cây xanh 3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5pjoqU5720wHWwzTB2xOUlgEpf_FqV_eIg&s",
+      "price": 12000000,
+      "categoryId": 5,
+      "id": 4,
+      "motangan": "Cây là thực vật thân gỗ, có thể cao lớn, với bộ rễ, thân, lá, hoa, và quả. Cây giúp cung cấp oxy, bảo vệ môi trường và cung cấp tài nguyên quý giá cho cuộc sống con người.",
+      "motadai": "Cây đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái. Chúng cung cấp oxy, hấp thụ carbon dioxide, làm sạch không khí, bảo vệ đất khỏi xói mòn và cung cấp môi trường sống cho nhiều loài động vật. Ngoài ra, cây còn là nguồn cung cấp thực phẩm, gỗ, dược liệu và nhiều tài nguyên khác cho con người.",
+      "about": "Cây là một phần không thể thiếu của hệ sinh thái và đời sống con người. Từ ngàn xưa, cây đã gắn liền với cuộc sống, văn hóa và tín ngưỡng của nhiều dân tộc. Trong tự nhiên, cây đóng vai trò chủ đạo trong việc duy trì sự sống và sự cân bằng của hệ sinh thái. Chúng không chỉ cung cấp thực phẩm và tài nguyên, mà còn là nguồn cảm hứng cho nghệ thuật và văn hóa. Trồng và bảo vệ cây là một hành động quan trọng trong việc bảo vệ môi trường và tương lai của nhân loại."
+    },
+    {
+      "title": "cây xanh 4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5pjoqU5720wHWwzTB2xOUlgEpf_FqV_eIg&s",
+      "price": 1500000,
+      "categoryId": 8,
+      "id": 5,
+      "motangan": "Cây là thực vật thân gỗ, có thể cao lớn, với bộ rễ, thân, lá, hoa, và quả. Cây giúp cung cấp oxy, bảo vệ môi trường và cung cấp tài nguyên quý giá cho cuộc sống con người.",
+      "motadai": "Cây đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái. Chúng cung cấp oxy, hấp thụ carbon dioxide, làm sạch không khí, bảo vệ đất khỏi xói mòn và cung cấp môi trường sống cho nhiều loài động vật. Ngoài ra, cây còn là nguồn cung cấp thực phẩm, gỗ, dược liệu và nhiều tài nguyên khác cho con người.",
+      "about": "Cây là một phần không thể thiếu của hệ sinh thái và đời sống con người. Từ ngàn xưa, cây đã gắn liền với cuộc sống, văn hóa và tín ngưỡng của nhiều dân tộc. Trong tự nhiên, cây đóng vai trò chủ đạo trong việc duy trì sự sống và sự cân bằng của hệ sinh thái. Chúng không chỉ cung cấp thực phẩm và tài nguyên, mà còn là nguồn cảm hứng cho nghệ thuật và văn hóa. Trồng và bảo vệ cây là một hành động quan trọng trong việc bảo vệ môi trường và tương lai của nhân loại."
+    },
+    {
+      "title": "Cây xanh",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5pjoqU5720wHWwzTB2xOUlgEpf_FqV_eIg&s",
+      "price": 323232,
+      "categoryId": 3,
+      "id": 6,
+      "motangan": "Cây là thực vật thân gỗ, có thể cao lớn, với bộ rễ, thân, lá, hoa, và quả. Cây giúp cung cấp oxy, bảo vệ môi trường và cung cấp tài nguyên quý giá cho cuộc sống con người.",
+      "motadai": "Cây đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái. Chúng cung cấp oxy, hấp thụ carbon dioxide, làm sạch không khí, bảo vệ đất khỏi xói mòn và cung cấp môi trường sống cho nhiều loài động vật. Ngoài ra, cây còn là nguồn cung cấp thực phẩm, gỗ, dược liệu và nhiều tài nguyên khác cho con người.",
+      "about": "Cây là một phần không thể thiếu của hệ sinh thái và đời sống con người. Từ ngàn xưa, cây đã gắn liền với cuộc sống, văn hóa và tín ngưỡng của nhiều dân tộc. Trong tự nhiên, cây đóng vai trò chủ đạo trong việc duy trì sự sống và sự cân bằng của hệ sinh thái. Chúng không chỉ cung cấp thực phẩm và tài nguyên, mà còn là nguồn cảm hứng cho nghệ thuật và văn hóa. Trồng và bảo vệ cây là một hành động quan trọng trong việc bảo vệ môi trường và tương lai của nhân loại."
+    },
+    {
+      "title": "Cây xanh 7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5pjoqU5720wHWwzTB2xOUlgEpf_FqV_eIg&s",
+      "price": 4000000,
+      "categoryId": 6,
+      "id": 13,
+      "motangan": "Cây là thực vật thân gỗ, có thể cao lớn, với bộ rễ, thân, lá, hoa, và quả. Cây giúp cung cấp oxy, bảo vệ môi trường và cung cấp tài nguyên quý giá cho cuộc sống con người.",
+      "motadai": "Cây đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái. Chúng cung cấp oxy, hấp thụ carbon dioxide, làm sạch không khí, bảo vệ đất khỏi xói mòn và cung cấp môi trường sống cho nhiều loài động vật. Ngoài ra, cây còn là nguồn cung cấp thực phẩm, gỗ, dược liệu và nhiều tài nguyên khác cho con người.",
+      "about": "Cây là một phần không thể thiếu của hệ sinh thái và đời sống con người. Từ ngàn xưa, cây đã gắn liền với cuộc sống, văn hóa và tín ngưỡng của nhiều dân tộc. Trong tự nhiên, cây đóng vai trò chủ đạo trong việc duy trì sự sống và sự cân bằng của hệ sinh thái. Chúng không chỉ cung cấp thực phẩm và tài nguyên, mà còn là nguồn cảm hứng cho nghệ thuật và văn hóa. Trồng và bảo vệ cây là một hành động quan trọng trong việc bảo vệ môi trường và tương lai của nhân loại."
+    },
+    {
+      "title": "Chậu Hộp 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5pjoqU5720wHWwzTB2xOUlgEpf_FqV_eIg&s",
+      "price": "121212",
+      "categoryId": 4,
+      "id": 14,
+      "motangan": "Cây là thực vật thân gỗ, có thể cao lớn, với bộ rễ, thân, lá, hoa, và quả. Cây giúp cung cấp oxy, bảo vệ môi trường và cung cấp tài nguyên quý giá cho cuộc sống con người.",
+      "motadai": "Cây đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái. Chúng cung cấp oxy, hấp thụ carbon dioxide, làm sạch không khí, bảo vệ đất khỏi xói mòn và cung cấp môi trường sống cho nhiều loài động vật. Ngoài ra, cây còn là nguồn cung cấp thực phẩm, gỗ, dược liệu và nhiều tài nguyên khác cho con người.",
+      "about": "Cây là một phần không thể thiếu của hệ sinh thái và đời sống con người. Từ ngàn xưa, cây đã gắn liền với cuộc sống, văn hóa và tín ngưỡng của nhiều dân tộc. Trong tự nhiên, cây đóng vai trò chủ đạo trong việc duy trì sự sống và sự cân bằng của hệ sinh thái. Chúng không chỉ cung cấp thực phẩm và tài nguyên, mà còn là nguồn cảm hứng cho nghệ thuật và văn hóa. Trồng và bảo vệ cây là một hành động quan trọng trong việc bảo vệ môi trường và tương lai của nhân loại."
+    },
+    {
+      "title": "Cây xanh 10",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5pjoqU5720wHWwzTB2xOUlgEpf_FqV_eIg&s",
+      "price": "3500000",
+      "categoryId": 7,
+      "id": 15,
+      "motangan": "Cây là thực vật thân gỗ, có thể cao lớn, với bộ rễ, thân, lá, hoa, và quả. Cây giúp cung cấp oxy, bảo vệ môi trường và cung cấp tài nguyên quý giá cho cuộc sống con người.",
+      "motadai": "Cây đóng vai trò quan trọng trong việc duy trì sự cân bằng sinh thái. Chúng cung cấp oxy, hấp thụ carbon dioxide, làm sạch không khí, bảo vệ đất khỏi xói mòn và cung cấp môi trường sống cho nhiều loài động vật. Ngoài ra, cây còn là nguồn cung cấp thực phẩm, gỗ, dược liệu và nhiều tài nguyên khác cho con người.",
+      "about": "Cây là một phần không thể thiếu của hệ sinh thái và đời sống con người. Từ ngàn xưa, cây đã gắn liền với cuộc sống, văn hóa và tín ngưỡng của nhiều dân tộc. Trong tự nhiên, cây đóng vai trò chủ đạo trong việc duy trì sự sống và sự cân bằng của hệ sinh thái. Chúng không chỉ cung cấp thực phẩm và tài nguyên, mà còn là nguồn cảm hứng cho nghệ thuật và văn hóa. Trồng và bảo vệ cây là một hành động quan trọng trong việc bảo vệ môi trường và tương lai của nhân loại."
+    }
+  ],
+  "cart": [],
+  "users": [
+    {
+      "email": "quanhainguyenlm@gmail.com",
+      "password": "$2a$10$P.YJ4NNahq/e/Gm.SbHnQ.Y3xl59rfz7Ex//0Tb6DkFFB9mYGv.0W",
+      "name": "Nguyen Hai quan",
+      "id": 1
+    }
+  ],
+  "orders": []
+}

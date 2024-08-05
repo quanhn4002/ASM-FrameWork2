@@ -1,0 +1,44 @@
+/* .header-admin {
+  width: 100%;
+  padding: 24px;
+  background-color: black;
+  color: #fff;
+}
+h1 {
+  float: left;
+}
+button {
+  padding-left: 90%;
+}
+.content {
+  height: 100vh;
+  .h-100 {
+    height: 100%;
+  }
+  .side-bar {
+    background-color: rgb(249, 251, 251);
+    font-size: 15px;
+    padding: 12px;
+    font-weight: bold;
+    li {
+      padding: 12px 10px;
+      margin-left: 10px;
+      &:hover {
+        background-color: #7d7d7d;
+        border-radius: 5px;
+        color: white;
+      }
+
+      a {
+        transition: all ease-in-out 0.3s;
+      }
+      i {
+        padding-bottom: 5px;
+      }
+    }
+  }
+}
+
+.img {
+  height: 100%;
+} */
